@@ -1,0 +1,127 @@
+C:\Users\Student\Desktop\Policklinika\obj\Debug\Policklinika.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Policklinika\obj\Debug\Pages\Administrator.g.cs
+C:\Users\Student\Desktop\Policklinika\obj\Debug\Pages\Doctor.g.cs
+C:\Users\Student\Desktop\Policklinika\obj\Debug\Pages\PagesLogin.g.cs
+C:\Users\Student\Desktop\Policklinika\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\Policklinika\obj\Debug\Policklinika_MarkupCompile.cache
+C:\Users\Student\Desktop\Policklinika\obj\Debug\Policklinika_MarkupCompile.lref
+C:\Users\Student\Desktop\Policklinika\bin\Debug\Policklinika.exe.config
+C:\Users\Student\Desktop\Policklinika\bin\Debug\Policklinika.exe
+C:\Users\Student\Desktop\Policklinika\bin\Debug\Policklinika.pdb
+C:\Users\Student\Desktop\Policklinika\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\Policklinika\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\Policklinika\obj\Debug\Pages\Administrator.baml
+C:\Users\Student\Desktop\Policklinika\obj\Debug\Pages\Doctor.baml
+C:\Users\Student\Desktop\Policklinika\obj\Debug\Pages\PagesLogin.baml
+C:\Users\Student\Desktop\Policklinika\obj\Debug\Policklinika.g.resources
+C:\Users\Student\Desktop\Policklinika\obj\Debug\Policklinika.Properties.Resources.resources
+C:\Users\Student\Desktop\Policklinika\obj\Debug\Policklinika.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Policklinika\obj\Debug\Policklinika.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Policklinika\obj\Debug\Policklinika.exe
+C:\Users\Student\Desktop\Policklinika\obj\Debug\Policklinika.pdb
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\bin\Debug\Policklinika.exe.config
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\bin\Debug\Policklinika.exe
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\bin\Debug\Policklinika.pdb
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\Policklinika.csprojAssemblyReference.cache
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\MainWindow.g.cs
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\Pages\PagesLogin.g.cs
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\App.g.cs
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\Policklinika_MarkupCompile.cache
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\Policklinika_MarkupCompile.lref
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\MainWindow.baml
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\Pages\PagesLogin.baml
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\Policklinika.g.resources
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\Policklinika.Properties.Resources.resources
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\Policklinika.csproj.GenerateResource.cache
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\Policklinika.csproj.CoreCompileInputs.cache
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\Policklinika.exe
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\Policklinika.pdb
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\App.baml
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\Windos\Doctor.g.cs
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\Windos\Doctor.baml
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\Windos\Admin.g.cs
+C:\Users\popov\OneDrive\Рабочий стол\Policklinika\obj\Debug\Windos\Admin.baml
+C:\Users\Student\Desktop\Policklinika_ver_1\bin\Debug\Policklinika.exe.config
+C:\Users\Student\Desktop\Policklinika_ver_1\bin\Debug\Policklinika.exe
+C:\Users\Student\Desktop\Policklinika_ver_1\bin\Debug\Policklinika.pdb
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Policklinika.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Windos\Admin.g.cs
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Windos\Doctor.g.cs
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Pages\PagesLogin.g.cs
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Policklinika_MarkupCompile.cache
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Policklinika_MarkupCompile.lref
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\App.baml
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Windos\Admin.baml
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Windos\Doctor.baml
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Pages\PagesLogin.baml
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Policklinika.g.resources
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Policklinika.Properties.Resources.resources
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Policklinika.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Policklinika.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Policklinika.exe
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Policklinika.pdb
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Pages\LS_Data.g.cs
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Pages\Tacke.g.cs
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Pages\Write.g.cs
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Pages\LS_Data.baml
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Pages\Tacke.baml
+C:\Users\Student\Desktop\Policklinika_ver_1\obj\Debug\Pages\Write.baml
+I:\Анастасия Владимировна\Policklinika_ver_2\bin\Debug\Policklinika.exe.config
+I:\Анастасия Владимировна\Policklinika_ver_2\bin\Debug\Policklinika.exe
+I:\Анастасия Владимировна\Policklinika_ver_2\bin\Debug\Policklinika.pdb
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Policklinika.csprojAssemblyReference.cache
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\MainWindow.g.cs
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Pages\LS_Data.g.cs
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Pages\Tacke.g.cs
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Pages\Write.g.cs
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Windos\Admin.g.cs
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Windos\Doctor.g.cs
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Pages\PagesLogin.g.cs
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\App.g.cs
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Policklinika_MarkupCompile.cache
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Policklinika_MarkupCompile.lref
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\App.baml
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\MainWindow.baml
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Pages\LS_Data.baml
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Pages\Tacke.baml
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Pages\Write.baml
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Windos\Admin.baml
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Windos\Doctor.baml
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Pages\PagesLogin.baml
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Policklinika.g.resources
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Policklinika.Properties.Resources.resources
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Policklinika.csproj.GenerateResource.cache
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Policklinika.csproj.CoreCompileInputs.cache
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Policklinika.exe
+I:\Анастасия Владимировна\Policklinika_ver_2\obj\Debug\Policklinika.pdb
+F:\C#\Поликилинника\Policklinika_ver_2\bin\Debug\Policklinika.exe.config
+F:\C#\Поликилинника\Policklinika_ver_2\bin\Debug\Policklinika.exe
+F:\C#\Поликилинника\Policklinika_ver_2\bin\Debug\Policklinika.pdb
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Policklinika.csprojAssemblyReference.cache
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Pages\LS_Data.g.cs
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Pages\Tacke.g.cs
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Pages\Write.g.cs
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Pages\PagesLogin.g.cs
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\App.g.cs
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Policklinika_MarkupCompile.cache
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Policklinika_MarkupCompile.lref
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\App.baml
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Pages\LS_Data.baml
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Pages\Tacke.baml
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Pages\Write.baml
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Pages\PagesLogin.baml
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Policklinika.g.resources
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Policklinika.Properties.Resources.resources
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Policklinika.csproj.GenerateResource.cache
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Policklinika.csproj.CoreCompileInputs.cache
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Policklinika.exe
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Policklinika.pdb
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Windows\MainWindow.g.cs
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Windows\Admin.g.cs
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Windows\Doctor.g.cs
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Windows\MainWindow.baml
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Windows\Admin.baml
+F:\C#\Поликилинника\Policklinika_ver_2\obj\Debug\Windows\Doctor.baml

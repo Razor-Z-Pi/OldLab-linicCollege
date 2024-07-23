@@ -1,0 +1,17 @@
+﻿<Application x:Class="Policklinika.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Policklinika"
+             StartupUri="Windows/MainWindow.xaml">
+    <Application.Resources>
+        <LinearGradientBrush x:Key="BackAvtor" StartPoint="0,0" EndPoint="0,1">
+            <GradientStop Color="White" Offset="0.0"></GradientStop>
+            <GradientStop Color="#FAFAD2" Offset="0.9"></GradientStop>
+        </LinearGradientBrush>
+
+        <Style TargetType="{x:Type Border}">
+            <Setter Property="CornerRadius" Value="10"></Setter>
+        </Style>
+
+    </Application.Resources>
+</Application>
